@@ -9,6 +9,8 @@
 
 Until I self-host Meltgo, I plan to use F#.
 
+Now, migrating to Rust.
+
 All of Meltgo is developped by me, [devtolog](https://github.com/devtolog).
 So it will take to develop for a long time.
 
