@@ -7,15 +7,11 @@
 
 ---
 
-Until I self-host Suzlun, I plan to use F#.
+Until I self-host Corjure, I plan to use Rust.
 
-Now, migrating to Rust.
-
-All of Suzlun is developped by me, [devtolog](https://github.com/devtolog).
+All of Corjure is developped by me, [devtolog](https://github.com/devtolog).
 So it will take to develop for a long time.
 
 <br>
 
-since 2/15/2026
-
-move from Rectol Language on 5/23/2026
+since 7/7/2026
