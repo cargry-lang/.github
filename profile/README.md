@@ -2,7 +2,6 @@
 - Memory Safety
 - Lowest overhead
 - Compilation speed
-- Type reliability
 - Simple syntax
 
 ---
