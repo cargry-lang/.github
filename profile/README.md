@@ -1,14 +1,12 @@
-<i>**Write immutable, write mutable!**</i>
+### What we value?
 
-### what we value
 - Memory Safety
 - Lowest overhead
 - Compilation speed
-- Simple syntax
 
 ---
 
-Until I self-host Cargry, we plan to use Rust.
+*Write immutable, write mutable!*
 
 <br>
 
