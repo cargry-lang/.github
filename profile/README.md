@@ -1,12 +1,10 @@
-### What we value?
+Cargry is functional system programming language.
 
 - Memory Safety
 - Lowest overhead
 - Compilation speed
 
 ---
-
-*Write immutable, write mutable!*
 
 <br>
 
