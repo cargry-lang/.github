@@ -8,4 +8,10 @@ Cargry is functional system programming language.
 
 <br>
 
-since 7/7/2026
+This project was moved to [Codeberg](https://codeberg.org/cargry-lang)
+
+<br>
+
+since 2026 7/7
+
+latest: 2026 9/5
