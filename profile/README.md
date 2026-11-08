@@ -14,4 +14,4 @@ This project was moved to [Codeberg](https://codeberg.org/cargry-lang).
 
 since 2026 7/7
 
-latest: 2026 9/5
+profile latest: 2026 9/5
